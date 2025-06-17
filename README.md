@@ -26,5 +26,5 @@ Q4: Scaled Dot-Product Attention
 Q5: Sentiment Analysis with HuggingFace Transformers
 1)Used `pipeline()` from the `transformers` library to perform sentiment analysis.
 2)Analyzed the sentence:  
-2.a)Despite the high price, the performance of the new MacBook is outstanding.
+5.a)Despite the high price, the performance of the new MacBook is outstanding.
 Output: Sentiment label and confidence score.
